@@ -1,0 +1,9 @@
+C:\Program Files\Redis>redis-cli
+127.0.0.1:6379>MSET a 1 b 2 c 3
+OK
+127.0.0.1:6379>MGET a b c
+1) "1"
+2) "2"
+3) "3"
+127.0.0.1:6379>QUIT
+C:\Program Files\Redis>
