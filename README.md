@@ -36,11 +36,13 @@ The Windows command prompt should now change to say the following...
 
 
 4. Just to test that everything is up and working try running the following commands after the Windows command prompt symbol: >  
+> C:\Program Files\Redis>redis-cli    
 > 127.0.0.1:6379>Set x 1   
-> 127.0.0.1:6379>OK  
+> OK  
 > 127.0.0.1:6379>Get x  
-> 127.0.0.1:6379>"1"  
-> 127.0.0.1:6379>  
+> "1"  
+> 127.0.0.1:6379>quit  
+> C:\Program Files\Redis>    
 
 ...warmest congratulations. You've just gone and successfully added data to be stored inside of your Redis database/which you've also gone and successfully retreved back, again! ;-)  
 
