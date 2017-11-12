@@ -1,7 +1,7 @@
 C:\Program Files\Redis>redis-cli
-127.0.0.1:6379>Set x 1
+127.0.0.1:6379>SET x 1
 OK
-127.0.0.1:6379>Get x
+127.0.0.1:6379>GET x
 "1"
-127.0.0.1:6379>quit
+127.0.0.1:6379>QUIT
 C:\Program Files\Redis>
