@@ -27,13 +27,16 @@ Currently, I'm using Windows 10; so, the following instructions will describe th
 *NOTE*: During the installation process it may ask if you wish to include Redis onto your Windows pathname? Say, yes.   
 
 3. If you did accept the default location in which to save the program; then, the program should have installed in:  
-C:\Program Files\Redis  
+> C:\Program Files\Redis>   
 ...go into that same folder directory, and, run a Windows command prompt...type:  
-C:\Program Files\Redis> redis-cli  
-...and, this should load the Redis command line interface...so that you are now ready to issue commands to the Redis Database.  
+> C:\Program Files\Redis>redis-cli  
+The Windows command prompt should now change to say the following...  
+> 127.0.0.1:6379>  
+...where: 127.0.0.1 means you are running a Redis local server on the 'default' Redis port nos: 6379.   
+
 
 4. Just to test that everything is up and working try running the following commands after the Windows command prompt symbol: >  
-> 127.0.0.1:6379>Set x 1  
+> 127.0.0.1:6379>Set x 1   
 > 127.0.0.1:6379>OK  
 > 127.0.0.1:6379>Get x  
 > 127.0.0.1:6379>"1"  
