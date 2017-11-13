@@ -68,5 +68,9 @@ http://try.redis.io
 Redis Beginner Tutorial 1 - What is REDIS  
 https://www.youtube.com/watch?v=HNDtcXVo5ow  
 
+# Other links
+
+Redis Desktop Manager  
+https://redisdesktop.com/download  
 
 
