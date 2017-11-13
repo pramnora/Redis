@@ -56,6 +56,9 @@ The Windows command prompt should now change to say the following...
 
 http://www.redis.io   
 
+Redis Desktop Manager  
+https://redisdesktop.com/download  
+
 -----
 
 # Tutorials
@@ -65,12 +68,33 @@ http://try.redis.io
 
 # YouTube videos...
 
-Redis Beginner Tutorial 1 - What is REDIS  
-https://www.youtube.com/watch?v=HNDtcXVo5ow  
+Redis Beginner Tutorial 1 - What is REDIS    
+https://www.youtube.com/watch?v=HNDtcXVo5ow    
 
-# Other links
+Redis Beginner Tutorial 2 – Why to use REDIS  
+https://www.youtube.com/watch?v=kUmrYQO51uA  
 
-Redis Desktop Manager  
-https://redisdesktop.com/download  
+Redis Beginner Tutorial 3 – How to install REDIS on windows (step-by-step)  
+https://www.youtube.com/watch?v=ncFhlv-gBXQ  
+
+Redis Beginner Tutorial 6 – How to use Redis Desktop Manager  
+https://www.youtube.com/watch?v=csifoYtJ7pM  
+
+Redis Beginner Tutorial 7 – Redis GUI Clients  
+https://www.youtube.com/watch?v=h2OlLxe5x8M  
+
+-----
+
+Redis Crash Course Tutorial/(Travis Media)  
+https://www.youtube.com/watch?v=Hbt56gFj998  
+
+Build A Node.js & Redis App From Scratch
+https://www.youtube.com/watch?v=9S-mphgE5fA&amp...    
+
+-----
+
+Redis Labs and SQL Server  
+https://www.youtube.com/watch?v=XQ9QEgLZAcQ  
+
 
 
