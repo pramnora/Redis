@@ -63,6 +63,10 @@ http://www.redis.io
 Official 'interactive' online tutorial  
 http://try.redis.io  
 
+# YouTube videos...
+
+Redis Beginner Tutorial 1 - What is REDIS  
+https://www.youtube.com/watch?v=HNDtcXVo5ow  
 
 
 
