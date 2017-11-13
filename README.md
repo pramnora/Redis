@@ -5,7 +5,11 @@ Redis Database code
 
 # What is Redis?  
 
-Redis, is an open source FREE NOSQL Database; it's used to store data in 'key/value' pairs; it works 'in memory'...and, therefore, its performance is exceptionally 'fast'.  
+The acronym Redis, actually, means: (Re)mote (di)ctionary (s)erver. 
+
+Redis, is an open source FREE NOSQL Database...meaning it doesn't use 'tables/columns' to store data; but, instead, it's data is stored in 'key/value' pairs; furthermore, it works 'in memory'...and, therefore, its performance is always exceptionally 'fast'! 
+
+Providing the computer has enough memory capicity; then, Redis, can store up to 4 billion items...! 
 
 -----
 
