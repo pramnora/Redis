@@ -88,7 +88,7 @@ https://www.youtube.com/watch?v=h2OlLxe5x8M
 Redis Crash Course Tutorial/(Travis Media)  
 https://www.youtube.com/watch?v=Hbt56gFj998  
 
-Build A Node.js & Redis App From Scratch
+Build A Node.js & Redis App From Scratch  
 https://www.youtube.com/watch?v=9S-mphgE5fA&amp...    
 
 -----
