@@ -1,0 +1,21 @@
+C:\Program Files\Redis>redis-cli
+127.0.0.1:6397>mset a 1 b 2 c 3
+OK
+127.0.0.1:6397>mget a b c
+1) "1"
+2) "2"
+3) "3"
+127.0.0.1:6397>del a
+(integer) 1
+127.0.0.1:6397>get a
+(nil)
+127.0.0.1:6397>mget a b c
+1) (nil)
+2) "2"
+3) "3"
+127.0.0.1:6397>FLUSHALL
+1) (nil)
+2) (nil)
+3) (nil)
+127.0.0.1:6397>QUIT
+C:\Program Files\Redis>
