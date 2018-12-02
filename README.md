@@ -63,8 +63,11 @@ https://redisdesktop.com/download
 
 # Tutorials
 
-Official 'interactive' online tutorial  
+Official 'interactive' online tutorial/plus, other links...    
 http://try.redis.io  
+https://redis.io/commands  
+https://redis.io/topics/data-types-intro  
+https://redis.io/documentation  
 
 # YouTube videos...
 
