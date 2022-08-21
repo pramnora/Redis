@@ -57,13 +57,15 @@ The Windows command prompt should now change to say the following...
 > apt-get install redis  
 > redis-server  
 > redis-cli  
-> 127.0.0.1:6379>quit  
+> 127.0.0.1:6379>ping
+> PONG
+> 127.0.0.1:637>quit  
 
 > redis-cli  
-> 127.0.0.1:6379>SET name Paul  
+> 127.0.0.1:6379>SET a 1  
 > OK  
-> 127.0.0.1:6379>GET name  
-> "paul"  
+> 127.0.0.1:6379>GET a  
+> 1  
 > 127.0.0.1:6379>  
 
 -----
