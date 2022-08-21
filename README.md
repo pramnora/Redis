@@ -116,6 +116,15 @@ https://www.youtube.com/watch?v=jgpVdJB2sKQ
 Intro to Redis in C# - Caching Made Easy/(IAmTimCorey)    
 https://www.youtube.com/watch?v=UrQWii_kfIE    
 
+What is Redis Cache? (Redis)  
+https://www.youtube.com/watch?v=Tqaqdfxi-J4    
+
+Redis tutorial for beginners/(.NET Interview Preparation videos)  
+https://www.youtube.com/watch?v=z9OPBVe6tgc  
+
+What is Redis and What Does It Do?/(CBT Nuggets)    
+https://www.youtube.com/watch?v=8A_iNFRP0F4  
+
 -----
 
 Can Redis be used as a Primary database?/(Hussein Nasser)  
