@@ -94,6 +94,20 @@ https://www.youtube.com/watch?v=Hbt56gFj998
 Build A Node.js & Redis App From Scratch  
 https://www.youtube.com/watch?v=9S-mphgE5fA&amp...    
 
+Redis Crash Course/(Web Dev Simplified)  
+https://www.youtube.com/watch?v=jgpVdJB2sKQ    
+
+Can Redis be used as a Primary database?/(Hussein Nasser)
+https://www.youtube.com/watch?v=VLTPqImLapM  
+
+Intro to Redis in C# - Caching Made Easy/(IAmTimCorey)    
+https://www.youtube.com/watch?v=UrQWii_kfIE    
+
+
+
+
+
+
 -----
 
 Redis Labs and SQL Server  
