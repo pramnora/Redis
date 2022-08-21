@@ -97,16 +97,16 @@ https://www.youtube.com/watch?v=9S-mphgE5fA&amp...
 Redis Crash Course/(Web Dev Simplified)  
 https://www.youtube.com/watch?v=jgpVdJB2sKQ    
 
-Can Redis be used as a Primary database?/(Hussein Nasser)  
-https://www.youtube.com/watch?v=VLTPqImLapM  
-
 Intro to Redis in C# - Caching Made Easy/(IAmTimCorey)    
 https://www.youtube.com/watch?v=UrQWii_kfIE    
 
+-----
 
+Can Redis be used as a Primary database?/(Hussein Nasser)  
+https://www.youtube.com/watch?v=VLTPqImLapM  
 
-
-
+Crazy Like a Fox: Redis as Your Primary Database/(Request Metrics)    
+https://www.youtube.com/watch?v=29WlzWth6-s  
 
 -----
 
