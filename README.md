@@ -57,8 +57,8 @@ The Windows command prompt should now change to say the following...
 > apt-get install redis  
 > redis-server  
 > redis-cli  
-> 127.0.0.1:6379>ping
-> PONG
+> 127.0.0.1:6379>ping  
+> PONG  
 > 127.0.0.1:637>quit  
 
 > redis-cli  
