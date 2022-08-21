@@ -52,6 +52,22 @@ The Windows command prompt should now change to say the following...
 
 -----
 
+# Setting up Redis to work on Linux Ubuntu...
+
+> apt-get install redis  
+> redis-server  
+> redis-cli  
+> 127.0.0.1:6379>quit  
+
+> redis-cli  
+> 127.0.0.1:6379>SET name Paul  
+> OK  
+> 127.0.0.1:6379>GET name  
+> "paul"  
+> 127.0.0.1:6379>  
+
+-----
+
 # Downloads
 
 http://www.redis.io   
