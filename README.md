@@ -1,7 +1,7 @@
 # Redis
 Redis Database code
 
-**Document last updated**: *Mon 4 Aug 2025 09:54 AM GMT*  
+**Document last updated**: *Mon 4 Aug 2025 16:52 PM GMT*  
 
 
 -----
@@ -90,73 +90,74 @@ set/get/append/del
 
 # Downloads
 
-http://www.redis.io   
+- http://www.redis.io     
+- http://www.redis.com  
 
 Redis Desktop Manager  
-https://redisdesktop.com/download  
+- https://redisdesktop.com/download
 
 -----
 
 # Tutorials
 
 Official 'interactive' online tutorial/plus, other links...    
-http://try.redis.io  
-https://redis.io/commands  
-https://redis.io/topics/data-types-intro  
-https://redis.io/documentation  
+- http://try.redis.io  
+- https://redis.io/commands  
+- https://redis.io/topics/data-types-intro  
+- https://redis.io/documentation  
 
 # YouTube videos...
 
 Redis Beginner Tutorial 1 - What is REDIS    
-https://www.youtube.com/watch?v=HNDtcXVo5ow    
+- https://www.youtube.com/watch?v=HNDtcXVo5ow    
 
 Redis Beginner Tutorial 2 – Why to use REDIS  
-https://www.youtube.com/watch?v=kUmrYQO51uA  
+- https://www.youtube.com/watch?v=kUmrYQO51uA  
 
 Redis Beginner Tutorial 3 – How to install REDIS on windows (step-by-step)  
-https://www.youtube.com/watch?v=ncFhlv-gBXQ  
+- https://www.youtube.com/watch?v=ncFhlv-gBXQ  
 
 Redis Beginner Tutorial 6 – How to use Redis Desktop Manager  
-https://www.youtube.com/watch?v=csifoYtJ7pM  
+- https://www.youtube.com/watch?v=csifoYtJ7pM  
 
 Redis Beginner Tutorial 7 – Redis GUI Clients  
-https://www.youtube.com/watch?v=h2OlLxe5x8M  
+- https://www.youtube.com/watch?v=h2OlLxe5x8M  
 
 -----
 
 Redis Crash Course Tutorial/(Travis Media)  
-https://www.youtube.com/watch?v=Hbt56gFj998  
+- https://www.youtube.com/watch?v=Hbt56gFj998  
 
 Build A Node.js & Redis App From Scratch  
-https://www.youtube.com/watch?v=9S-mphgE5fA&amp...    
+- https://www.youtube.com/watch?v=9S-mphgE5fA&amp...    
 
 Redis Crash Course/(Web Dev Simplified)  
-https://www.youtube.com/watch?v=jgpVdJB2sKQ    
+- https://www.youtube.com/watch?v=jgpVdJB2sKQ    
 
 Intro to Redis in C# - Caching Made Easy/(IAmTimCorey)    
-https://www.youtube.com/watch?v=UrQWii_kfIE    
+- https://www.youtube.com/watch?v=UrQWii_kfIE    
 
 What is Redis Cache? (Redis)  
-https://www.youtube.com/watch?v=Tqaqdfxi-J4    
+- https://www.youtube.com/watch?v=Tqaqdfxi-J4    
 
 Redis tutorial for beginners/(.NET Interview Preparation videos)  
-https://www.youtube.com/watch?v=z9OPBVe6tgc  
+- https://www.youtube.com/watch?v=z9OPBVe6tgc  
 
 What is Redis and What Does It Do?/(CBT Nuggets)    
-https://www.youtube.com/watch?v=8A_iNFRP0F4  
+- https://www.youtube.com/watch?v=8A_iNFRP0F4  
 
 -----
 
 Can Redis be used as a Primary database?/(Hussein Nasser)  
-https://www.youtube.com/watch?v=VLTPqImLapM  
+- https://www.youtube.com/watch?v=VLTPqImLapM  
 
 Crazy Like a Fox: Redis as Your Primary Database/(Request Metrics)    
-https://www.youtube.com/watch?v=29WlzWth6-s  
+- https://www.youtube.com/watch?v=29WlzWth6-s  
 
 -----
 
 Redis Labs and SQL Server  
-https://www.youtube.com/watch?v=XQ9QEgLZAcQ  
+- https://www.youtube.com/watch?v=XQ9QEgLZAcQ  
 
 
 
