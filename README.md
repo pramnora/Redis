@@ -75,14 +75,14 @@ The Windows command prompt should now change to say the following...
 
 set/get/append/del  
 
-> set temp=abc  
-> get temp  
+> 127.0.0.1:6379>set temp=abc  
+> 127.0.0.1:6379>get temp  
 > abc  
-> append temp def  
-> get temp  
+> 127.0.0.1:6379>append temp def  
+> 127.0.0.1:6379> get temp  
 > abcdef  
-> del temp  
-> get temp  
+> 127.0.0.1:6379>del temp  
+> 127.0.0.1:6379>get temp  
 > (nil)  
   
 
