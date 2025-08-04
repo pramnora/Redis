@@ -1,6 +1,9 @@
 # Redis
 Redis Database code
 
+**Document last updated**: *Mon 4 Aug 2025 09:54 AM GMT*  
+
+
 -----
 
 # What is Redis?  
