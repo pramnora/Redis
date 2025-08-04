@@ -71,6 +71,21 @@ The Windows command prompt should now change to say the following...
 > 1  
 > 127.0.0.1:6379>  
 
+# Redis keywords...
+
+set/get/append/del  
+
+> set temp=abc  
+> get temp  
+> abc  
+> append temp def  
+> get temp  
+> abcdef  
+> del temp  
+> get temp  
+> (nil)  
+  
+
 -----
 
 # Downloads
